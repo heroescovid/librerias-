@@ -2,7 +2,7 @@
 
 # Favoriot Data Visualization Using Vue & Chart.js
 
-[![Video Lintang](https://img.youtube.com/vi/HPVOroKjDZE/0.jpg)](https://www.youtube.com/watch?v=HPVOroKjDZE)
+
 
 1. Make sure [__*Node.js*__](https://nodejs.org/en/) is installed on your PC, then simply download or clone this repo and install all dependencies:
 

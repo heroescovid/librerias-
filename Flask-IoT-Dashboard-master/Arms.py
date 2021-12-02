@@ -4,7 +4,6 @@ from random import choice
 from datetime import datetime
 import person
 import os, binascii
-
 app = Flask(__name__)
 
 logged_in = {}

@@ -1,7 +1,5 @@
 import mysql.connector
-
 class db:
-    
     def __init__(self, user, host, password, database):
         try:
             self.db = mysql.connector.connect(user=user, host=host, password=password, database=database)
